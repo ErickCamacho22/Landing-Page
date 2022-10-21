@@ -30,9 +30,11 @@ header
 }
 header .container 
 {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    width: 1140px;
+    margin: 0 auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    position: relative;
 }
 
 header .container .logo
